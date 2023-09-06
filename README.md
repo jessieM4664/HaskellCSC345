@@ -1,2 +1,2 @@
 ### `HaskellCSC345`
-Assignments from CSC345 Haskell assignments
+Projects from CSC345 Haskell Course
